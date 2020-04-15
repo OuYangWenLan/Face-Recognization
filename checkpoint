@@ -1,0 +1,6 @@
+model_checkpoint_path: "train_faces200-2799"
+all_model_checkpoint_paths: "train_faces50-699"
+all_model_checkpoint_paths: "train_faces100-1399"
+all_model_checkpoint_paths: "train_faces150-2099"
+all_model_checkpoint_paths: "train_faces_target"
+all_model_checkpoint_paths: "train_faces200-2799"
